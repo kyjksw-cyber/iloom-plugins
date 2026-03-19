@@ -21,6 +21,7 @@ claude plugin marketplace add kyjksw-cyber/iloom-plugins
 | 플러그인 | 담당자 | 설명 |
 |---------|--------|------|
 | iloom-sunwoo | 김선우 | 일룸 AX 업무 자동화 |
+| iloom-jihye | 서지혜 | 일룸 마케팅팀 업무 자동화 |
 
 ## 내 플러그인 올리는 법
 
