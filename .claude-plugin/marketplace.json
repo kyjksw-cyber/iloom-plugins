@@ -29,5 +29,17 @@
       "source": "./iloom-jihye",
       "category": "productivity"
     }
+    ,
+    {
+      "name": "iloom-haej",
+      "description": "일룸 마케팅팀 혜정님 업무 자동화 — EP 에디터 HTML 변환 (ep-editor)",
+      "version": "1.0.0",
+      "author": {
+        "name": "최혜정",
+        "email": "kyjksw@gmail.com"
+      },
+      "source": "./iloom-haej",
+      "category": "productivity"
+    }
   ]
 }
