@@ -1,13 +1,22 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "iloom-plugins",
   "description": "일룸 AX 팀 플러그인 마켓플레이스",
-  "owner": "kyjksw-cyber",
+  "owner": {
+    "name": "iloom AX",
+    "email": "kyjksw@gmail.com"
+  },
   "plugins": [
     {
       "name": "iloom-sunwoo",
       "description": "일룸 AX 업무 자동화 — 경쟁사 리뷰 분석, 회의록 정리, SNS 초안, 모니터링",
-      "source": "iloom-sunwoo",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "author": {
+        "name": "김선우",
+        "email": "kyjksw@gmail.com"
+      },
+      "source": "./iloom-sunwoo",
+      "category": "productivity"
     }
   ]
 }
